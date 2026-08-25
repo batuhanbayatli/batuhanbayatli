@@ -23,7 +23,6 @@
 <!-- ROZETLER -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhanbayatli)
 [![SEGEM](https://img.shields.io/badge/SEGEM-Teknik_Personel-00C853?style=for-the-badge&logo=shield&logoColor=white)](#)
-[![SPL](https://img.shields.io/badge/SPL-Düzey_1_2_3-FF6D00?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 [![JLPT](https://img.shields.io/badge/JLPT-N3_Japonca-BC002D?style=for-the-badge&logo=googletranslate&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/batuhanbayatli)
 
@@ -93,16 +92,7 @@ Sigortacılık ve finans regülasyonlarındaki derin **domain uzmanlığımı**,
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-## 📊 GitHub Analitiği
 
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhanbayatli&bg_color=0D1117&hide_border=true&color=C9D1D9&title_color=00FF88&line=00FF88&point=FFD700&area=true&area_color=00FF8820" width="100%"/>
-</div>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 ## 🔗 İletişim
 
