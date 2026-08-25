@@ -21,7 +21,6 @@
 <!-- ROZETLER -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhanbayatli)
 [![SEGEM](https://img.shields.io/badge/SEGEM-Teknik_Personel-00C853?style=for-the-badge&logo=shield&logoColor=white)](#)
-[![SPL](https://img.shields.io/badge/SPL-Düzey_1_2_3-FF6D00?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 [![JLPT](https://img.shields.io/badge/JLPT-N3_Japonca-BC002D?style=for-the-badge&logo=googletranslate&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/batuhanbayatli)
 
