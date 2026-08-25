@@ -5,7 +5,6 @@
 
 <br/><br/>
 
-<img src="./pp1.jpg" width="130" height="130" style="border-radius: 50%; border: 3px solid #00FFF7; box-shadow: 0 0 20px rgba(0, 255, 247, 0.35); margin-top: -65px;" alt="Batuhan Bayatlı" />
 
 # BATUHAN BAYATLI
 ### `InsurTech & FinTech Specialist` • `SEGEM Certified` • `Quantitative Architecture`
