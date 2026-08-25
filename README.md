@@ -87,16 +87,7 @@ Sigortacılık ve finans regülasyonlarındaki derin **domain uzmanlığımı**,
 * **SPL Finansal Okuryazarlık (Düzey 1, Düzey 2, Düzey 3)** — *Sermaye Piyasası Lisanslama Kuruluşu*
 * **JLPT N3 Japonca Dil Yeterliliği** — *7 Yıl Japonya / Tokyo Tecrübesi*
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-## 📊 GitHub Analytics
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhanbayatli&bg_color=0D1117&hide_border=true&color=C9D1D9&title_color=00FFF7&line=00FFF7&point=FFD700&area=true&area_color=00FFF720" width="100%"/>
-</div>
 
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
