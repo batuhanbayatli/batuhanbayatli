@@ -108,6 +108,9 @@ Sigortacılık ve finans regülasyonlarındaki derin **domain uzmanlığımı**,
 
 <br/><br/>
 
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1600&color=FFD700&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Veriyi+stratejiye%2C+stratejiyi+koda+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum.;Kaizen%3A+Her+g%C3%BCn+%251+daha+ileri.;InsurTech+%2B+Kantitatif+M%C3%BChendislik." alt="Motto"/>
 
 <br/>
