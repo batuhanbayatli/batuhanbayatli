@@ -1,39 +1,48 @@
 <div align="center">
 
-<!-- Dinamik Animasyonlu Başlık -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23,38,59,102&height=220&section=header&text=Batuhan%20Bayatlı&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=InsurTech%20%7C%20FinTech%20%7C%20Quantitative%20Solutions&descFontSize=20&descAlignY=58" width="100%"/>
+<!-- 🌌 Fütüristik / Animasyonlu Üst Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,15,35,60,95,140&height=240&section=header&text=Batuhan%20Bayatlı&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=InsurTech%20%26%20FinTech%20Specialist%20%7C%20SEGEM%20%7C%20Japanese%20%26%20English&descFontSize=17&descAlignY=58" width="100%"/>
 
-<!-- Daktilo / Typing Efekti -->
+<!-- ⚡ Dinamik Daktilo (Typing) Efekti -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+InsurTech+Solutions;Quantitative+Risk+Modeling+%26+Simulations;Modern+Web+Apps+%26+Browser+Extensions;Turning+complex+systems+into+functional+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=750&lines=InsurTech%20%26%20FinTech%20Mimarisi;Kantitatif%20Risk%20Modelleme%20%26%20Skorlama%20Sistemleri;%C3%96zel%20Web%20Uygulamalar%C4%B1%20%26%20Taray%C4%B1c%C4%B1%20Eklentileri;Finansal%20Matematik%20%2B%20Modern%20Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirme;Veriyi%20stratejiye%2C%20stratejiyi%20koda%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum." alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Rozetler -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhanbayatli)
-[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/batuhanbayatli)
-[![Visitor Count](https://komarev.com/ghpvc/?username=batuhanbayatli&label=Profile%20Views&color=00d2ff&style=for-the-badge)](https://github.com/batuhanbayatli)
+<!-- 🛡️ Yetkinlik ve İletişim Rozetleri -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhanbayatli)
+[![SEGEM](https://img.shields.io/badge/SEGEM-Teknik_Personel-00C853?style=for-the-badge&logo=shield&logoColor=white)](#)
+[![SPL](https://img.shields.io/badge/SPL-D%C3%BCzey_1%2C_2%2C_3-FF6D00?style=for-the-badge&logo=statuspage&logoColor=white)](#)
+[![Japonca](https://img.shields.io/badge/JLPT-N3_Japonca-BC002D?style=for-the-badge&logo=googletranslate&logoColor=white)](#)
+[![Profil Ziyareti](https://komarev.com/ghpvc/?username=batuhanbayatli&label=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1&color=00f0ff&style=for-the-badge)](https://github.com/batuhanbayatli)
 
 </div>
 
 ---
 
-### ⚡ System Status & Overview
+### 🛰️ Sistem Profili & Çekirdek Yapı
 
 ```typescript
-interface Profile {
-  name: string;
-  focus: string[];
-  languages: string[];
-  coreStack: string[];
-  currentMission: string;
-}
+// batuhan_core_profile.ts ⚡
 
-const batuhan: Profile = {
-  name: "Batuhan Bayatlı",
-  focus: ["InsurTech Architecture", "Risk Analytics & Scoring", "Quantitative Models"],
-  languages: ["Turkish (Native)", "English (Fluent)", "Japanese (JLPT N3)"],
-  coreStack: ["JavaScript", "Python", "SQL", "HTML5/CSS3", "Tailwind"],
-  currentMission: "Building next-gen risk engines & clean digital platforms."
+export const batuhanBayatli = {
+  unvan: "InsurTech & FinTech Specialist",
+  lokasyon: "İstanbul, Türkiye",
+  diller: {
+    turkce: "Anadil",
+    ingilizce: "İleri Düzey",
+    japonca: "JLPT N3 (7 Yıl Tokyo/Japonya Deneyimi)"
+  },
+  sertifikasyonlar: [
+    "SEGEM Teknik Personel Yeterlilik Belgesi",
+    "SPL Düzey 1, Düzey 2, Düzey 3 Finansal Okuryazarlık"
+  ],
+  uzmanlikAlanlari: [
+    "InsurTech & FinTech Mimarileri",
+    "Siber & Aktüeryal Risk Modellemesi",
+    "Kantitatif Analiz & Simülasyon Sistemleri",
+    "Özel Web/Browser Çözümleri & UI/UX"
+  ],
+  felsefe: "Teoriyi stratejiye, stratejiyi yüksek performanslı dijital ürünlere dönüştürmek."
 };
