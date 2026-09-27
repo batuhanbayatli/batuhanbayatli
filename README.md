@@ -98,7 +98,7 @@ Sigortacılık ve finans regülasyonlarındaki derin **domain uzmanlığımı**,
 
 <div align="center">
 
-<a href="https://linkedin.com/in/batuhanbayatli">
+<a href="https://linkedin.com/in/batuhanbayatlı">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
